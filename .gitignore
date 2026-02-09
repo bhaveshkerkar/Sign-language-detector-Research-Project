@@ -1,0 +1,5 @@
+asl_env2/
+.ipynb_checkpoints/
+__pycache__/
+*.h5
+*.pkl
